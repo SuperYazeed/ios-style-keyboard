@@ -1,0 +1,7 @@
+<resources>
+    <color name="keyBg">#FFFFFFFF</color>
+    <color name="keyBgSecondary">#FFCDCED3</color>
+    <color name="kbdBg">#FFE5E6EA</color>
+    <color name="keyText">#FF000000</color>
+    <color name="keyTextSecondary">#FF000000</color>
+</resources>
