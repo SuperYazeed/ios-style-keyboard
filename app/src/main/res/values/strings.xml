@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iOS Style Keyboard</string>
+    <string name="ime_name">iOS Style Keyboard</string>
+    <string name="ime_subtype_en_us">English (US)</string>
+    <string name="ime_subtype_ar">العربية</string>
+    <string name="enable_instructions">فعّل الكيبورد من الإعدادات: النظام → اللغات والإدخال → لوحة المفاتيح على الشاشة → إدارة لوحات المفاتيح.</string>
+    <string name="open_ime_settings">فتح إعدادات الكيبورد</string>
+</resources>
