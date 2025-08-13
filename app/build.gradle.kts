@@ -48,3 +48,5 @@ dependencies {
     implementation("androidx.emoji2:emoji2:1.4.0")
         implementation("com.google.android.material:material:1.11.0")
 
+
+}
