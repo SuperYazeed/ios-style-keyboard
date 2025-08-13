@@ -46,4 +46,5 @@ dependencies {
 
     // Optional: emoji support inside your own views (not required for IME basics)
     implementation("androidx.emoji2:emoji2:1.4.0")
-}
+        implementation("com.google.android.material:material:1.11.0")
+
